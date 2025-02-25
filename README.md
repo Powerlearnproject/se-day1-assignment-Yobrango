@@ -12,10 +12,11 @@ Identify and describe at least three key milestones in the evolution of software
 
 The evolution of software engineering has been marked by several key milestones that have shaped the field into what it is today. Here are three significant milestones:
 1. Emergence of Software Engineering as a Discipline (Late 1960s)
+
 The concept of software engineering emerged in the late 1960s, recognizing the need for a disciplined approach to software development similar to traditional engineering. This period was marked by the realization that software development required structured methodologies to manage complexity and improve quality. Key figures like Dijkstra, Brooks, and Knuth played crucial roles in shaping the field.
-2. Introduction of Object-Oriented Programming (1980s)
+3. Introduction of Object-Oriented Programming (1980s)
 The advent of object-oriented programming (OOP) in the 1980s revolutionized software development. Languages like Simula and Smalltalk introduced concepts of classes and objects, allowing for modular and reusable software components. The popularity of OOP was solidified by languages like Java and C++ in the 1990s, which became the standard for many applications.
-3. Adoption of Agile Methodologies (Early 2000s)
+4. Adoption of Agile Methodologies (Early 2000s)
 The early 2000s saw the rise of agile methodologies, such as Extreme Programming (XP) and Scrum. These methodologies emphasized customer involvement, iterative development, and flexibility in response to changing requirements. Agile approaches focused on delivering software that met customer needs efficiently and effectively, marking a significant shift from traditional linear models like the Waterfall Model.
 
 List and briefly explain the phases of the Software Development Life Cycle.
